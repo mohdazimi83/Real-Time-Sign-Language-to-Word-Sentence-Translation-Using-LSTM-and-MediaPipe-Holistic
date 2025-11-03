@@ -7,9 +7,9 @@
 ---
 
 ## 🏫 International Conference Recognition
-🎓 Proudly presented at the **International Conference on Advances in Mathematics and its Applications (ICAMA 2025)**  
+🎓 Proudly presented at the **International Conference on Advances in Mathematics and its Applications (ICAMA 2025)
 📍 Hosted by **Sri Sairam Engineering College, Chennai**  
-🗓️ **April 2025**  
+🗓️ **April 2025** [Certifiacte of Prsentation](https://www.linkedin.com/posts/mohdazimi_icama2025-artificialintelligence-gesturerecognition-activity-7340645572564930560-Rjfh)  
 Our project was selected for presentation for its **innovative approach in real-time AI-based sign language translation**, bridging accessibility gaps for the deaf and hard-of-hearing community.
 
 ---
